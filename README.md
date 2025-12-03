@@ -57,17 +57,17 @@ I am a current MS Data Science student at the University of New Haven, MRes Deve
 ### Core Data Science Languages
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   
 </div>
 
 ### Cloud & Big Data
 <div align="center">
   
-  ![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Databricks](https://img.shields.io/badge/Databricks-Learning-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -77,9 +77,9 @@ I am a current MS Data Science student at the University of New Haven, MRes Deve
 ### Machine Learning & AI
 <div align="center">
   
-  ![Machine Learning](https://img.shields.io/badge/ML-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-  ![NLP](https://img.shields.io/badge/NLP-Learning-FF6F00?style=for-the-badge&logo=natural-language-processing&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
+  ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=natural-language-processing&logoColor=white)
   
 </div>
 
