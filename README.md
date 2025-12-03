@@ -110,7 +110,7 @@ I am a current MS Data Science student at the University of New Haven, MRes Deve
 - 📊 Data analysis and visualization
 - 🧠 Behavioral modeling
 
-![Tech Stack](https://img.shields.io/badge/Tech-R%20%7C%20HTML%20%7C%20JavaScript-blue)
+![Tech Stack](https://img.shields.io/badge/Tech-R%20%7C%20HTML%20%7C%20R%20%7C%20MATLAB)
 
 ---
 
