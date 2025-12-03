@@ -57,7 +57,7 @@ I am a current MS Data Science student at the University of New Haven, MRes Deve
 ### Core Data Science Languages
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   
@@ -68,6 +68,9 @@ I am a current MS Data Science student at the University of New Haven, MRes Deve
   
   ![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Databricks](https://img.shields.io/badge/Databricks-Learning-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   
 </div>
 
@@ -110,7 +113,7 @@ I am a current MS Data Science student at the University of New Haven, MRes Deve
 - 📊 Data analysis and visualization
 - 🧠 Behavioral modeling
 
-![Tech Stack](https://img.shields.io/badge/Tech-R%20%7C%20HTML%20%7C%20R%20%7C%20MATLAB)
+![Tech Stack](https://img.shields.io/badge/Tech-R%20%7C%20HTML%20%7C%20JavaScript%20%7C%20MATLAB-blue)
 
 ---
 
